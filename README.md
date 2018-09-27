@@ -1,6 +1,6 @@
 jQuery源码分析(二): jQuery选择器: Sizzle(即将到来)
 
-[jQuery源码分析(一)：`Core`部分](/posts/10/1.md)
+[jQuery源码分析(一)：`core.js`部分](/posts/10/1.md)
 
 [`react-router`源码分析](/posts/9/1.md)
 
