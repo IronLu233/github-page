@@ -1,4 +1,4 @@
-jQuery源码分析(二): jQuery选择器: Sizzle(即将到来)
+`Sizzle`(`jQuery`选择器)源码分析（一）
 
 [jQuery源码分析(一)：`core.js`部分](/posts/10/1.md)
 
